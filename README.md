@@ -13,6 +13,7 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii
 Data 
 ---
 Col  Variable                   Non-Null Count  Dtype  
+
  0   Item_Identifier            8523 non-null   object
  
  1   Item_Weight                7060 non-null   float64
