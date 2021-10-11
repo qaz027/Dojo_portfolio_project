@@ -45,6 +45,12 @@ Regressions:
 * Bagged Tree Regression
 * Random Forest Regression
 
+RMSEs
+![image](https://user-images.githubusercontent.com/77822487/136734815-fec0e544-38f5-4152-b9cd-9f79424eea23.png)
+
+R2s
+![image](https://user-images.githubusercontent.com/77822487/136734836-f7c9ecb2-0dde-446c-bfeb-f902238ed8e1.png)
+
 
 Recommendations:
 ---
