@@ -54,3 +54,4 @@ R2s
 
 Recommendations:
 ---
+Based on analyzing the data, the best model we develop to predict items sales for each outlet comes via the Random Forest Regression Model
