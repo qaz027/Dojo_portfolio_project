@@ -41,7 +41,10 @@ Col  Variable                   Non-Null Count  Dtype
 
 Data Viz:
 ---
- 
+Item Outlet Sales - Histogram
+![image](https://user-images.githubusercontent.com/77822487/136731389-b66e9d61-f94e-4177-8e9c-f6a1c5a1da1c.png)
+
+
  
  
 Regressions:
