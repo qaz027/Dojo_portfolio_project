@@ -11,8 +11,8 @@ https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii
 
 RangeIndex: 8523 entries, 0 to 8522
 Data columns (total 12 columns):
- #   Column                     Non-Null Count  Dtype  
----  ------                     --------------  -----  
+Col  Variable                   Non-Null Count  Dtype  
+---  --------                   --------------  -----  
  0   Item_Identifier            8523 non-null   object 
  1   Item_Weight                7060 non-null   float64
  2   Item_Fat_Content           8523 non-null   object 
