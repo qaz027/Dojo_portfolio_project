@@ -40,10 +40,10 @@ Outlet Type and Item Outlet Sales - Bar and Whiskers
  
 Regressions:
 ---
-.Linear Regression
-.Decision Tree
-.Bagged Tree Regression
-.Random Forest Regression
+* Linear Regression
+* Decision Tree
+* Bagged Tree Regression
+* Random Forest Regression
 
 
 Recommendations:
