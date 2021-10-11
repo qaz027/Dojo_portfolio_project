@@ -44,11 +44,18 @@ Data Viz:
 Item Outlet Sales - Histogram
 ![image](https://user-images.githubusercontent.com/77822487/136731389-b66e9d61-f94e-4177-8e9c-f6a1c5a1da1c.png)
 
+Outlet Type and Item Outlet Sales - Bar and Whiskers
+![image](https://user-images.githubusercontent.com/77822487/136731543-5b6b176c-b2dc-4830-a5af-64c77652bf9d.png)
 
  
  
 Regressions:
 ---
- 
+*Linear Regression
+*Decision Tree
+*Bagged Tree Regression
+*Random Forest Regression
+
+
 Recommendations:
 ---
